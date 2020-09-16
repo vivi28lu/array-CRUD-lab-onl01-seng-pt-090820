@@ -17,7 +17,8 @@ def add_element_to_start_of_array(array, element)
 end
 
 def remove_element_from_end_of_array(array)
-  foods = 
+  foods = ["pasta", "pizza", "fruit", "chips"]
+  chips_foods = foods.pop
 end
 
 def remove_element_from_start_of_array(array)
