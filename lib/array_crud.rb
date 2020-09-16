@@ -22,7 +22,7 @@ def remove_element_from_end_of_array(array)
 end
 
 def remove_element_from_start_of_array(array)
-  foods = ["pasta", "pizza", "fruit", "chips", "arrays!"]
+  foods = ["wow", "pasta", "pizza", "fruit", "chips", "arrays!"]
   wow_foods = foods.shift
 end
 
